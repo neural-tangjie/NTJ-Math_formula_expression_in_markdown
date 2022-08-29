@@ -63,8 +63,7 @@ $$f(x) = x$$
 7. Summation and integration<br>
    \sum represents the sum, subscript represents the lower limit of the sum, and superscript represents the upper limit of the sum, for example:
    $$
-   \sum_i^n
-   $$
+   \sum_i^n $$
    \int denotes integral. Similarly, subscript denotes lower limit of integral and superscript denotes upper limit of integral. For example:
    $$
    \int_{1}^{\infty}
@@ -91,10 +90,7 @@ $$f(x) = x$$
     \lim_{x\to+\infty}$$
     $$
     x_n\stackrel{p}\longrightarrow0$$
-    $$
-    \vec{a}$$
-    $$
-    \overrightarrow{a}$$
+    $\vec{a}$ $\overrightarrow{a}$
     $$
     \hat y=a\hat x+b$$
     $$
@@ -111,43 +107,37 @@ $$f(x) = x$$
       1 & 2 & 3 \\
       4 & 5 & 6 \\
       7 & 8 & 9
-      \end{matrix} \tag{1}
-   $$
+      \end{matrix} \tag{1}$$
     $$
       \begin{pmatrix}
       1 & 2 & 3 \\
       4 & 5 & 6 \\
       7 & 8 & 9
-      \end{pmatrix} \tag{1.1}
-   $$
+      \end{pmatrix} \tag{1.1}$$
     $$
       \begin{bmatrix}
       1 & 2 & 3 \\
       4 & 5 & 6 \\
       7 & 8 & 9
-      \end{bmatrix} \tag{1.2}
-   $$
+      \end{bmatrix} \tag{1.2}$$
     $$
       \begin{Bmatrix}
       1 & 2 & 3 \\
       4 & 5 & 6 \\
       7 & 8 & 9
-      \end{Bmatrix} \tag{1.3}
-   $$
+      \end{Bmatrix} \tag{1.3}$$
     $$
       \begin{vmatrix}
       1 & 2 & 3 \\
       4 & 5 & 6 \\
       7 & 8 & 9
-      \end{vmatrix} \tag{1.4}
-   $$
+      \end{vmatrix} \tag{1.4}$$
     $$
       \begin{Vmatrix}
       1 & 2 & 3 \\
       4 & 5 & 6 \\
       7 & 8 & 9
-      \end{Vmatrix} \tag{1.5}
-   $$
+      \end{Vmatrix} \tag{1.5}$$
    $$
       \left\{
       \begin{matrix}
@@ -155,8 +145,7 @@ $$f(x) = x$$
       4 & 5 & 6 \\
       7 & 8 & 9
       \end{matrix} 
-      \right\} \tag{2}
-   $$
+      \right\} \tag{2}$$
    $$
       \left[
       \begin{matrix}
@@ -164,8 +153,14 @@ $$f(x) = x$$
       4 & 5 & 6 \\
       7 & 8 & 9
       \end{matrix} 
-      \right] \tag{3}
+      \right] \tag{3}$$
    $$
+   \begin{bmatrix}
+   a_{11}&a_{12}&\cdots&a_{1n}\\
+   a_{21}&a_{22}&\cdots&a_{2n}\\
+   \vdots&\vdots&\ddots&\vdots\\
+   a_{m1}&a_{m2}&\cdots&a_{mn}\\
+   \end{bmatrix}$$
 13. Formula<br>
     $$
     \begin{aligned}
