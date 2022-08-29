@@ -83,7 +83,24 @@ $$f(x) = x$$
    $$
 9.  Font<br>
 10. Special functions and symbols<br>
-    $$\sum_{i=0}^{n}$$
+    $$
+    \sum_{i=0}^{n}$$ 
+    $$
+    \prod$$
+    $$
+    \lim_{x\to+\infty}$$
+    $$
+    x_n\stackrel{p}\longrightarrow0$$
+    $$
+    \vec{a}$$
+    $$
+    \overrightarrow{a}$$
+    $$
+    \hat y=a\hat x+b$$
+    $$
+    \mathtt{X}'$$
+
+
 11. Forms<br>
     |a|b|c|
     :----|:--:|----:
@@ -97,9 +114,44 @@ $$f(x) = x$$
       \end{matrix} \tag{1}
    $$
     $$
+      \begin{pmatrix}
+      1 & 2 & 3 \\
+      4 & 5 & 6 \\
+      7 & 8 & 9
+      \end{pmatrix} \tag{1.1}
+   $$
+    $$
+      \begin{bmatrix}
+      1 & 2 & 3 \\
+      4 & 5 & 6 \\
+      7 & 8 & 9
+      \end{bmatrix} \tag{1.2}
+   $$
+    $$
+      \begin{Bmatrix}
+      1 & 2 & 3 \\
+      4 & 5 & 6 \\
+      7 & 8 & 9
+      \end{Bmatrix} \tag{1.3}
+   $$
+    $$
+      \begin{vmatrix}
+      1 & 2 & 3 \\
+      4 & 5 & 6 \\
+      7 & 8 & 9
+      \end{vmatrix} \tag{1.4}
+   $$
+    $$
+      \begin{Vmatrix}
+      1 & 2 & 3 \\
+      4 & 5 & 6 \\
+      7 & 8 & 9
+      \end{Vmatrix} \tag{1.5}
+   $$
+   $$
       \left\{
       \begin{matrix}
-      1 & 2 & 3 \\
+      1 & 2 &3 \\
       4 & 5 & 6 \\
       7 & 8 & 9
       \end{matrix} 
@@ -114,12 +166,36 @@ $$f(x) = x$$
       \end{matrix} 
       \right] \tag{3}
    $$
-
-13. Special functions and symbols
-14. Space
-15. Forms
-16. Matrix
-17. Formula alignment
-18. Classification expression
-19. Effect
-
+13. Formula<br>
+    $$
+    \begin{aligned}
+    a &=b+c\\
+      & = d + e + f
+      \end{aligned}
+   $$
+14. Relational operator<br>
+    $\lt$ $\le$ $\leq$ $\leqq$ $\leqslant$<br>
+    $\gt$ $\ge$ $\geq$ $\geqq$ $\geqslant$<br>
+    $\neq$ $\approx$ $\prec$<br>$\sim$ $\simeq$ $\cong$<br>
+    $\because$ $\therefore$
+15. Arithmetic operator<br>
+    $\times$ $\div$<br> $\pm$ $\mp$ $\cdot$
+16. Set operators<br>
+    $\cup$ $\cap$ $\setminus$<br> 
+    $\subset$ $\subseteq$ $\subsetneq$ $\supset$<br>
+    $\in$ $\notin$<br>
+    $\emptyset$ $\varnothing$
+17. Arrow operator<br>
+    $\to$ $\rightarrow$ $\Rightarrow$<br>
+    $\uarr$ $\darr$<br>
+    $\leftarrow$ $\Leftarrow$<br>
+    $\harr$ $\hArr$
+18. Other operator<br>
+    $\infty$ $\partial$ <br>
+    $\top$ $\bot$<br>
+    $\forall$ $\exists$<br>
+    $\nabla$ $\triangle$<br>
+    $\parallel$ $\ell$<br>
+    $\oplus$ $\bigoplus$<br>
+    $\circ$ $\bullet$<br>
+    $\star$ $\ast$<br>
