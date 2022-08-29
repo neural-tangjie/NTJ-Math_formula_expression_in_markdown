@@ -95,7 +95,12 @@ $$f(x) = x$$
     \hat y=a\hat x+b$$
     $$
     \mathtt{X}'$$
-
+    $$
+    \overline{P}$$
+    $$
+    \overbrace{P+Q}$$
+   $$
+    \sqrt[3]{2}$$ 
 
 11. Forms<br>
     |a|b|c|
@@ -171,7 +176,8 @@ $$f(x) = x$$
 14. Relational operator<br>
     $\lt$ $\le$ $\leq$ $\leqq$ $\leqslant$<br>
     $\gt$ $\ge$ $\geq$ $\geqq$ $\geqslant$<br>
-    $\neq$ $\approx$ $\prec$<br>$\sim$ $\simeq$ $\cong$<br>
+    $\neq$ $\approx$ $\prec$<br>
+    $\sim$ $\simeq$ $\cong$<br>
     $\because$ $\therefore$
 15. Arithmetic operator<br>
     $\times$ $\div$<br> $\pm$ $\mp$ $\cdot$
