@@ -1,5 +1,5 @@
 # NTJ-Math_formula_expression_in_markdown
-This repository shows the math formula expression in markdown.<br></br>Enjoy!
+This repository shows the math formula expression in markdown.<br>Enjoy!<br>Here are some display problems but it works in vscode or some other software.</br>
 1. Greek alphabet 
    |spelling|lower-case|UPPER-case|
    |---|---|---|
